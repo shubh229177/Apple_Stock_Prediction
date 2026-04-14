@@ -185,3 +185,6 @@ python your_script.py
 ##  Author
 
 Shubham Thakur
+Here you can check the dashboard
+ https://shubh229177.github.io/Apple_Stock_Prediction/
+
